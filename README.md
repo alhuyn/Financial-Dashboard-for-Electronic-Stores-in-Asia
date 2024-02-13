@@ -5,4 +5,4 @@ A Financial dashboard for the top five Electronic Stores in Asia using Microsoft
 
 
 ## Dashboard Preview
-![Financial Dashboard Preview](https://github.com/alhuyn/Financial-Dashboard-for-Electronic-Stores-in-Asia/assets/158428478/190d63c4-1996-45a4-b085-710a97a8afff)
+![Financial Dashboard Preview](https://github.com/alhuyn/Financial-Dashboard-for-Electronic-Stores-in-Asia/assets/158428478/2c3fe94d-ba69-4572-9d1f-996e3c37dc01)
